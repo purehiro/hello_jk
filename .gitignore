@@ -1,0 +1,12 @@
+# created by http://www.gitignore.io/api/macos,python
+
+###macOS###
+*.DS_Store
+.AppleDoble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
